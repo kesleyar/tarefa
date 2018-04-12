@@ -1,7 +1,8 @@
 public class teste{
 	public static void main(String[] args){
-		int num;
+		int num, n;
 		num= 7 + 3;
 		System.out.println("resultado: " + num);
+		
 	}
 }
